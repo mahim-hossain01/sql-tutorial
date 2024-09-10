@@ -1,1 +1,1 @@
-HELLLO
+SELECT * FROM table_name;
